@@ -37,3 +37,24 @@ Previously, I worked at **Itaú Unibanco**, helping build financial solutions fo
 * Async/Await, CI/CD Pipelines, SOLID Principles
 
 ---
+
+### 📱 Featured Projects
+
+* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A modern football fan hub built with **SwiftUI**.
+* **[PocketChef](https://github.com/rudrigaum/PocketChef):** Your pocket culinary assistant.
+* **[NewsApp](https://github.com/rudrigaum/NewsAppPortfolio):** Exploring modern Swift Concurrency and API integration.
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/rodrigocerqueirareis/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rodrigocerqueirareis@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+<br>
+
+---
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
