@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Rodrigo Cerqueira! 👋
 
-<!--
-**rudrigaum/rudrigaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **iOS Developer** passionate about creating intuitive and scalable mobile experiences. Based in Salvador, Brazil.
 
-Here are some ideas to get you started:
+🚀 **Current Status:**
+I am currently **open to new opportunities** (Mid/Senior iOS Developer).
+Previously, I worked at **Itaú Unibanco**, helping build financial solutions for millions of users, where I honed my skills in scalability, code quality, and agile methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack & Tools:**
+* **Languages:** Swift, Objective-C (basic)
+* **UI:** SwiftUI, UIKit (AutoLayout/CodeView)
+* **Architecture:** MVVM, VIPER, Clean Architecture, Coordinator
+* **Core:** Combine, Async/Await, CoreData
+* **Tools:** Xcode, Git, CI/CD, XCTest
+
+📱 **Featured Projects:**
+* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A modern football fan hub built with **SwiftUI**.
+* **[PocketChef](https://github.com/rudrigaum/PocketChef):** Your pocket culinary assistant.
+* **[NewsApp](https://github.com/rudrigaum/NewsAppPortfolio):** Exploring modern Swift Concurrency and API integration.
+
+📫 **Let's Connect:**
+* [LinkedIn](https://www.linkedin.com/in/rodrigocerqueirareis/)
+* [Email](mailto:rodrigocerqueirareis@gmail.com)
+
+---
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
