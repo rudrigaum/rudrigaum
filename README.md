@@ -40,9 +40,11 @@ Previously, I worked at **Itaú Unibanco**, helping build financial solutions fo
 
 ### 📱 Featured Projects
 
+* **[Spokast](https://github.com/rudrigaum/Spokast):** A modern, fully programmatic iOS Podcast Player built with Clean Code principles and reactive programming.
 * **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A modern football fan hub built with **SwiftUI**.
 * **[PocketChef](https://github.com/rudrigaum/PocketChef):** Your pocket culinary assistant.
 * **[NewsApp](https://github.com/rudrigaum/NewsAppPortfolio):** Exploring modern Swift Concurrency and API integration.
+
 
 ### 📫 Let's Connect
 
