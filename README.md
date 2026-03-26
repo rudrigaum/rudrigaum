@@ -12,6 +12,9 @@ I'm a **Mobile Engineer** specializing in high-performance, scalable architectur
 🚀 **Current Status:**
 Currently at EY, driving mobile innovation for Banco do Brasil. I am developing across both iOS (Swift) and Android (Kotlin) ecosystems, bridging native platforms to deliver high-scale, unified mobile solutions.
 
+🏦 Background:
+Previously at Itaú Unibanco (4 years), where I delivered resilient systems for 30 million active users. I operated across both iOS and Android platforms, notably developing a Unified Search Module integrated across 4 major banking apps (PF, PJ, Empresas, and Emps).
+
 🧠 **AI-Native Workflow:**
 I leverage LLMs and AI-assisted tools (**Cursor, Claude, Copilot**) to accelerate delivery, hunt for complex edge cases, and ensure "banking-grade" quality at high velocity.
 
