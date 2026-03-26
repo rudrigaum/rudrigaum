@@ -53,8 +53,15 @@ I leverage LLMs and AI-assisted tools (**Cursor, Claude, Copilot**) to accelerat
 
 ### 📱 Featured Projects
 
-* **[Spokast](https://github.com/rudrigaum/Spokast):** A modern, programmatic iOS Podcast Player built with Clean Code and reactive programming.
-* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A football fan hub built with **SwiftUI** and modern state management.
+#### 🍎 iOS Ecosystem
+* **[Spokast](https://github.com/rudrigaum/Spokast):** A modern, programmatic podcast player built with **Clean Code** principles and reactive programming (**RxSwift**).
+* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A football fan hub exploring **SwiftUI** and modern state management.
+* **[Movely](https://github.com/rudrigaum/Movely):** A personal trainer marketplace leveraging **SwiftUI**, **Clean Architecture**, and **Firebase** for real-time data.
+
+#### 🤖 Android Ecosystem
+* **[InvestTrack](https://github.com/rudrigaum/InvestTrack):** 📈 A robust investment tracker for the Brazilian stock market (B3). Engineered with **Kotlin**, **Jetpack Compose**, **Hilt (DI)**, and **Clean Architecture**. Powered by **BrAPI**.
+  
+
 
 ### 📫 Let's Connect
 
