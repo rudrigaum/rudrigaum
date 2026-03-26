@@ -1,62 +1,47 @@
 ### Hi there, I'm Rodrigo Cerqueira! 👋
+I'm a Mobile Engineer specializing in high-performance, scalable architectures. With a track record of building mission-critical financial systems for 30 million active users, I focus on code resilience, modularity, and cutting-edge efficiency.
 
-I'm an **iOS Developer** passionate about creating intuitive and scalable mobile experiences. Based in Salvador, Brazil.
+🚀 Current Mission:
+Currently at EY, driving mobile innovation for Banco do Brasil. I am leading development across both iOS (Swift) and Android (Kotlin) ecosystems, bridging native platforms to deliver high-scale, unified mobile solutions.
+
+🧠 AI-Native Workflow:
+I am an AI-Native Developer. I leverage LLMs and AI-assisted tools (Cursor, Claude, Copilot) to accelerate delivery, hunt for complex edge cases, and ensure "banking-grade" quality at 10x velocity.
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
-<br>
+🛠 Tech Stack & Tools
+iOS & Apple Ecosystem
 
-🚀 **Current Status:**
-I am currently **open to new opportunities** (Mid/Senior iOS Developer).
-Previously, I worked at **Itaú Unibanco**, helping build financial solutions for millions of users, where I honed my skills in scalability, code quality, and agile methodologies.
-
----
-
-### 🛠 Tech Stack & Tools
-
-**Languages & UI**
-<br>
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-3A4E5C?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0028A7?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-
-**Core & Tools**
-<br>
-![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-333333?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![XCTest](https://img.shields.io/badge/XCTest-3A4E5C?style=for-the-badge&logo=apple&logoColor=white)
-
-**🧠 Architecture & Concepts:**
-* MVVM, VIPER, Clean Architecture, Coordinator Pattern
-* Async/Await, CI/CD Pipelines, SOLID Principles
-
----
-
-### 📱 Featured Projects
-
-* **[Spokast](https://github.com/rudrigaum/Spokast):** A modern, fully programmatic iOS Podcast Player built with Clean Code principles and reactive programming.
-* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A modern football fan hub built with **SwiftUI**.
-* **[PocketChef](https://github.com/rudrigaum/PocketChef):** Your pocket culinary assistant.
-* **[NewsApp](https://github.com/rudrigaum/NewsAppPortfolio):** Exploring modern Swift Concurrency and API integration.
+Android & Cross-Platform
 
 
-### 📫 Let's Connect
+AI-Native Tooling
 
+
+🧠 Architecture & Engineering:
+
+Scale Specialist: Experience with 30M+ users and modular systems (XCFrameworks).
+
+Patterns: MVVM-C, Clean Architecture, VIPER, SOLID, TDD.
+
+Core: Swift Concurrency, CoreData, CI/CD Pipelines, Modularization.
+
+📱 Featured Projects
+Spokast: A modern, programmatic iOS Podcast Player built with Clean Code and reactive programming.
+
+ArenaFC: A football fan hub built with SwiftUI and modern state management.
+
+[Modular Search Concept]: Private Repo - Architecture of a Search Module integrated into 4 distinct banking apps (PF, PJ, Empresas, Emps).
+
+📫 Let's Connect
 <a href="https://www.linkedin.com/in/rodrigocerqueirareis/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rodrigocerqueirareis@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br>
-<br>
-
----
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
+⭐️ “Code is like humor. When you have to explain it, it’s bad.”
