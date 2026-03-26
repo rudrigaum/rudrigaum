@@ -3,8 +3,8 @@
 I'm a **Mobile Engineer** specializing in high-performance, scalable architectures. With a track record of building mission-critical financial systems for **30 million active users**, I focus on code resilience, modularity, and cutting-edge efficiency.
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-hazel-nine-36.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-hazel-nine-36.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
 <br>
