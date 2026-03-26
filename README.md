@@ -1,47 +1,69 @@
 ### Hi there, I'm Rodrigo Cerqueira! 👋
-I'm a Mobile Engineer specializing in high-performance, scalable architectures. With a track record of building mission-critical financial systems for 30 million active users, I focus on code resilience, modularity, and cutting-edge efficiency.
 
-🚀 Current Mission:
-Currently at EY, driving mobile innovation for Banco do Brasil. I am leading development across both iOS (Swift) and Android (Kotlin) ecosystems, bridging native platforms to deliver high-scale, unified mobile solutions.
-
-🧠 AI-Native Workflow:
-I am an AI-Native Developer. I leverage LLMs and AI-assisted tools (Cursor, Claude, Copilot) to accelerate delivery, hunt for complex edge cases, and ensure "banking-grade" quality at 10x velocity.
+I'm a **Mobile Engineer** specializing in high-performance, scalable architectures. With a track record of building mission-critical financial systems for **30 million active users**, I focus on code resilience, modularity, and cutting-edge efficiency.
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rudrigaum&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrigaum&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
-🛠 Tech Stack & Tools
-iOS & Apple Ecosystem
+<br>
 
-Android & Cross-Platform
+🚀 **Current Status:**
+Currently at EY, driving mobile innovation for Banco do Brasil. I am developing across both iOS (Swift) and Android (Kotlin) ecosystems, bridging native platforms to deliver high-scale, unified mobile solutions.
 
+🧠 **AI-Native Workflow:**
+I leverage LLMs and AI-assisted tools (**Cursor, Claude, Copilot**) to accelerate delivery, hunt for complex edge cases, and ensure "banking-grade" quality at high velocity.
 
-AI-Native Tooling
+---
 
+### 🛠 Tech Stack & Tools
 
-🧠 Architecture & Engineering:
+**iOS & Apple Ecosystem**
+<br>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0028A7?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-Scale Specialist: Experience with 30M+ users and modular systems (XCFrameworks).
+**Android & Modern Mobile**
+<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-3A4E5C?style=for-the-badge&logo=apple&logoColor=white)
 
-Patterns: MVVM-C, Clean Architecture, VIPER, SOLID, TDD.
+**AI-Native Tooling**
+<br>
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-8E44AD?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-Core: Swift Concurrency, CoreData, CI/CD Pipelines, Modularization.
+**🧠 Architecture & Engineering:**
+* **Scale Specialist:** Experience with 30M+ users and modular systems (XCFrameworks).
+* **Patterns:** MVVM-C, Clean Architecture, VIPER, SOLID, TDD.
+* **Core:** Swift Concurrency, CoreData, CI/CD Pipelines, Modularization.
 
-📱 Featured Projects
-Spokast: A modern, programmatic iOS Podcast Player built with Clean Code and reactive programming.
+---
 
-ArenaFC: A football fan hub built with SwiftUI and modern state management.
+### 📱 Featured Projects
 
-[Modular Search Concept]: Private Repo - Architecture of a Search Module integrated into 4 distinct banking apps (PF, PJ, Empresas, Emps).
+* **[Spokast](https://github.com/rudrigaum/Spokast):** A modern, programmatic iOS Podcast Player built with Clean Code and reactive programming.
+* **[ArenaFC](https://github.com/rudrigaum/ArenaFC):** A football fan hub built with **SwiftUI** and modern state management.
 
-📫 Let's Connect
+### 📫 Let's Connect
+
 <a href="https://www.linkedin.com/in/rodrigocerqueirareis/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rodrigocerqueirareis@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-⭐️ “Code is like humor. When you have to explain it, it’s bad.”
+<br>
+<br>
+
+---
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
